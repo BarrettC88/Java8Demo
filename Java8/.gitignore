@@ -1,0 +1,11 @@
+*.class
+*.txt
+*.lst
+*.prefs
+*.dumpstream
+*.project
+*.classpath
+*.jar
+*.properties
+*.xml
+*.json
